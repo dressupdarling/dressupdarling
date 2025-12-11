@@ -1,6 +1,6 @@
 # 💫 About Me:
 I can program in Rust, Python and assembly. 
-Also do comepative programing and do projects.
+Also do competitive programing and do projects.
 
 
 # 💻 Tech Stack:
